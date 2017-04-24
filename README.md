@@ -1,9 +1,14 @@
-# api documentation for  [pubnub (v4.8.0)](https://github.com/pubnub/javascript#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-pubnub.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pubnub) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pubnub.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pubnub)
+# npmdoc-pubnub
+
+#### api documentation for  [pubnub (v4.8.0)](https://github.com/pubnub/javascript#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-pubnub.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pubnub) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pubnub.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pubnub)
+
 #### Publish & Subscribe Real-time Messaging with PubNub
 
-[![NPM](https://nodei.co/npm/pubnub.png?downloads=true)](https://www.npmjs.com/package/pubnub)
+[![NPM](https://nodei.co/npm/pubnub.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pubnub)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-pubnub/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-pubnub_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pubnub/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-pubnub/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-pubnub/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-pubnub/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-pubnub/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-pubnub/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "PubNub",
-        "email": "support@pubnub.com"
+        "name": "PubNub"
     },
     "bin": {},
     "browser": "./dist/web/pubnub.min.js",
@@ -112,27 +116,22 @@
     "main": "./lib/node/index.js",
     "maintainers": [
         {
-            "name": "maxpresman",
-            "email": "mpresman@groupon.com"
+            "name": "maxpresman"
         },
         {
-            "name": "pubnub",
-            "email": "stephen@pubnub.com"
+            "name": "pubnub"
         },
         {
-            "name": "pubnub1",
-            "email": "stephen@pubnub.com"
+            "name": "pubnub1"
         },
         {
-            "name": "stephenlb",
-            "email": "blum.stephen@gmail.com"
+            "name": "stephenlb"
         }
     ],
     "name": "pubnub",
     "noAnalyze": false,
     "optionalDependencies": {},
     "react-native": "./lib/react_native/index.js",
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/pubnub/javascript.git"
@@ -143,16 +142,6 @@
     "version": "4.8.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module pubnub](#apidoc.module.pubnub)
-
-
-
-# <a name="apidoc.module.pubnub"></a>[module pubnub](#apidoc.module.pubnub)
 
 
 
